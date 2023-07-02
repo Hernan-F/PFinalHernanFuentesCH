@@ -1,0 +1,44 @@
+[
+    {
+      "id": 1,
+      "nombre": "Barra EZ cromada maciza",
+      "precio": 25400,
+      "img": "https://ss-static-01.esmsv.com/id/51319/productos/obtenerimagen/?id=1326&useDensity=false&width=1280&height=720&tipoEscala=contain",
+      "KG": 8
+    },
+    {
+      "id": 2,
+      "nombre": "Barra olimpica 2.20 mt",
+      "precio": 75000,
+      "img": "https://ss-static-01.esmsv.com/id/51319/productos/obtenerimagen/?id=485&useDensity=false&width=1280&height=720&tipoEscala=contain",
+      "KG": 20
+    },
+    {
+      "id": 3,
+      "nombre": "Rack apoya barra",
+      "precio": 30000,
+      "img": "https://ss-static-01.esmsv.com/id/51319/productos/obtenerimagen/?id=3587&useDensity=false&width=1280&height=720&tipoEscala=contain",
+      "KG": 10
+    },
+    {
+        "id": 4,
+        "nombre": "Chaleco reforzado",
+        "precio": 21300,
+        "img": "https://ss-static-01.esmsv.com/id/51319/productos/obtenerimagen/?id=3977&useDensity=false&width=1280&height=720&tipoEscala=contain",
+        "KG": 15
+    },
+    {
+        "id": 5,
+        "nombre": "Barra W olimpica",
+        "precio": 60000,
+        "img": "https://ss-static-01.esmsv.com/id/51319/productos/obtenerimagen/?id=482&useDensity=false&width=1280&height=720&tipoEscala=contain",
+        "KG": 10
+    },
+    {
+        "id": 6,
+        "nombre": "Disco de fundicion",
+        "precio": 22560,
+        "img": "https://ss-static-01.esmsv.com/id/51319/productos/obtenerimagen/?id=5259&useDensity=false&width=1280&height=720&tipoEscala=contain",
+        "KG": 20
+    }
+  ]
